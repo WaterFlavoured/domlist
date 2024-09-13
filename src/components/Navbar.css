@@ -1,0 +1,43 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+li {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    color: #6c5c38;
+}
+
+h1 > img {
+    width: 30px;
+    height: 30px;
+    
+}
+
+nav {
+    padding: 30px;
+    background-color: #CBE2B5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.logofun {
+    display: flex;
+    align-items: center;
+
+}
+.logofun > img {
+    width: 30px;
+    height: 30px;
+}
+.logofun > h1 {
+    font-size: 30px;
+    padding-left: 20px;
+    color: #6c5c38;
+}

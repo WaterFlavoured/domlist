@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  background-color: #E7FBE6;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 5px;
+  background-color: #E7FBE6;
+}
+/* Website theme: #A28B55 #86AB89 #CBE2B5 #E7FBE6*/
+/* Extra colors: #F8D49B or #FFC872 */
+/* Text #6c5c38 */
